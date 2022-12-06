@@ -9,6 +9,7 @@ Published in 2022 in Proceedings of the 6th Workshop on Storing, Querying and Be
 
 <details>
 <summary>bibtex</summary>
+
 ```
 @inproceedings{dedecker_quweda_2022,
   author = {Dedecker, Ruben and Slabbinck, Wout and Wright, Jesse and Hochstenbach, Patrick and Colpaert, Pieter and Verborgh, Ruben},
@@ -30,6 +31,7 @@ Published in 2022 in Proceedings of the 6th Workshop on Storing, Querying and Be
  Published in 2022 in Proceedings of the 8th Workshop on Managing the Evolution and Preservation of the Data Web. 
  <details>
 <summary>bibtex</summary>
+
 ```
  @inproceedings{slabbinck_mepdaw_2022,
   author = {Slabbinck, Wout and Dedecker, Ruben and Vasireddy, Sindhu and Verborgh, Ruben and Colpaert, Pieter},
