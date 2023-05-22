@@ -7,6 +7,8 @@ List of papers for which I was author.
 [What’s in a Pod? – A knowledge graph interpretation for the Solid ecosystem](https://solidlabresearch.github.io/WhatsInAPod/)
 Published in 2022 in Proceedings of the 6th Workshop on Storing, Querying and Benchmarking Knowledge Graphs. 
 
+([CUER-WS source](https://ceur-ws.org/Vol-3279/paper6.pdf))
+
 <details>
 <summary>bibtex</summary>
 
@@ -29,6 +31,9 @@ Published in 2022 in Proceedings of the 6th Workshop on Storing, Querying and Be
 
 [Linked Data Event Streams in Solid containers](https://raw.githubusercontent.com/woutslabbinck/papers/main/2022/Linked_Data_Event_Streams_in_Solid_containers.pdf)
  Published in 2022 in Proceedings of the 8th Workshop on Managing the Evolution and Preservation of the Data Web. 
+ 
+([CUER-WS source](https://ceur-ws.org/Vol-3339/paper4.pdf))
+
  <details>
 <summary>bibtex</summary>
 
