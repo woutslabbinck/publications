@@ -29,7 +29,7 @@ Published in 2022 in Proceedings of the 6th Workshop on Storing, Querying and Be
 ```
 </details>
 
-[Linked Data Event Streams in Solid containers](https://raw.githubusercontent.com/woutslabbinck/papers/main/2022/Linked_Data_Event_Streams_in_Solid_containers.pdf)
+[Linked Data Event Streams in Solid LDP containers](https://raw.githubusercontent.com/woutslabbinck/papers/main/2022/Linked_Data_Event_Streams_in_Solid_containers.pdf)
  Published in 2022 in Proceedings of the 8th Workshop on Managing the Evolution and Preservation of the Data Web. 
  
 ([CUER-WS source](https://ceur-ws.org/Vol-3339/paper4.pdf))
@@ -38,13 +38,18 @@ Published in 2022 in Proceedings of the 6th Workshop on Storing, Querying and Be
 <summary>bibtex</summary>
 
 ```
- @inproceedings{slabbinck_mepdaw_2022,
+@inproceedings{slabbinck_mepdaw_2022,
   author = {Slabbinck, Wout and Dedecker, Ruben and Vasireddy, Sindhu and Verborgh, Ruben and Colpaert, Pieter},
-  title = {Linked Data Event Streams in Solid containers},
+  title = {Linked Data Event Streams in Solid LDP containers},
   booktitle = {Proceedings of the 8th Workshop on Managing the Evolution and Preservation of the Data Web},
+  editor = {Graux, Damien and Orlandi, Fabrizio and Niazmand, Emetis and Ydler, Gabriela and Vidal, Maria-Esther},
   year = 2022,
   month = oct,
-  url = {https://raw.githubusercontent.com/woutslabbinck/papers/main/2022/Linked_Data_Event_Streams_in_Solid_containers.pdf},
+  series = {CEUR Workshop Proceedings},
+  volume = 3339,
+  issn = {1613-0073},
+  pages = {28--35},
+  url = {https://ceur-ws.org/Vol-3339/paper4.pdf},
 }
 ```
 </details>
