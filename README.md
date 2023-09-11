@@ -2,10 +2,31 @@
 
 List of papers for which I was author.
 
+## 2023
+
+Position statement: [Autonomous agents for Personal Data Stores](https://raw.githubusercontent.com/woutslabbinck/papers/main/2023/Position-Statement-Wout-Slabbinck.pdf) for the [WebAgents TPAC 2023 meeting](https://github.com/w3c-cg/webagents/blob/aaf1cadbaaf0869e19d5a3708f976c2fd2c76897/Meetings/2023-09-11-TPAC/README.md). <br>
+[slides](https://woutslabbinck.github.io/TPAC2023/slides/Position-statement-Wout-Slabbinck.html)
+
+<details>
+<summary>bibtex</summary>
+
+```
+@inproceedings{slabbinck_tpac_2023,
+  author = {Wout Slabbinck},
+  title = {Autonomous agents for Personal Data Stores},
+  booktitle = {WebAgents at Technical Plenary and Advisory Committee (TPAC)},
+  year = {2023},
+  month = sep,
+  url = {https://raw.githubusercontent.com/w3c-cg/webagents/aaf1cadbaaf0869e19d5a3708f976c2fd2c76897/Meetings/2023-09-11-TPAC/Statements/Position-Statement-Wout-Slabbinck.pdf}
+}
+```
+</details>
+
 ## 2022
 
-[What’s in a Pod? – A knowledge graph interpretation for the Solid ecosystem](https://solidlabresearch.github.io/WhatsInAPod/)
-Published in 2022 in Proceedings of the 6th Workshop on Storing, Querying and Benchmarking Knowledge Graphs. 
+[What’s in a Pod? – A knowledge graph interpretation for the Solid ecosystem](https://solidlabresearch.github.io/WhatsInAPod/)<br>
+Published in 2022 in Proceedings of the 6th Workshop on Storing, Querying and Benchmarking Knowledge Graphs. <br>
+[slides](https://pod.rubendedecker.be/scholar/presentations/QuWeDa2022/#)
 
 ([CUER-WS source](https://ceur-ws.org/Vol-3279/paper6.pdf))
 
@@ -29,8 +50,9 @@ Published in 2022 in Proceedings of the 6th Workshop on Storing, Querying and Be
 ```
 </details>
 
-[Linked Data Event Streams in Solid LDP containers](https://raw.githubusercontent.com/woutslabbinck/papers/main/2022/Linked_Data_Event_Streams_in_Solid_containers.pdf)
- Published in 2022 in Proceedings of the 8th Workshop on Managing the Evolution and Preservation of the Data Web. 
+[Linked Data Event Streams in Solid LDP containers](https://raw.githubusercontent.com/woutslabbinck/papers/main/2022/Linked_Data_Event_Streams_in_Solid_containers.pdf) <br>
+Published in 2022 in Proceedings of the 8th Workshop on Managing the Evolution and Preservation of the Data Web. <br>
+[slides](https://docs.google.com/presentation/d/1Ut07fAWJ7Xa1zEts1t4S6r_Gn3brMMjCvqO2xDJ12sE/edit?usp=sharing)
  
 ([CUER-WS source](https://ceur-ws.org/Vol-3339/paper4.pdf))
 
