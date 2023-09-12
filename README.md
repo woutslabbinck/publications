@@ -1,6 +1,6 @@
-# papers
+# Publications
 
-List of papers for which I was author.
+List of publications where I was author.
 
 ## 2023
 
