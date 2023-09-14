@@ -4,6 +4,27 @@ List of papers for which I was author.
 
 ## 2023
 
+[A Rule-Based Software Agent on Top of Personal Data Stores](https://raw.githubusercontent.com/woutslabbinck/papers/main/2023/Rule-based_software_agent_PDS.pdf)<br>
+*Accepted for publication*: Published in 2023 in Proceedings of the 22nd International Semantic Web Conference: Posters, Demos, and Industry Tracks <br>
+[Demo](https://github.com/SolidLabResearch/Solid-Agent/tree/main/documentation/iot)
+
+
+<details>
+<summary>bibtex</summary>
+
+```
+@inproceedings{slabbinck_iswc_poster_2023,
+  author = {Slabbinck, Wout and Dedecker, Ruben and Rojas Mel\'endez, Juli\'an Andr\'es and Verborgh, Ruben},
+  title = {A Rule-Based Software Agent on Top of Personal Data Stores},
+  booktitle = {Proceedings of the 22nd International Semantic Web Conference: Posters, Demos, and Industry Tracks},
+  year = 2023,
+  month = nov,
+}
+
+```
+</details>
+
+
 Position statement: [Autonomous agents for Personal Data Stores](https://raw.githubusercontent.com/woutslabbinck/papers/main/2023/Position-Statement-Wout-Slabbinck.pdf) for the [WebAgents TPAC 2023 meeting](https://github.com/w3c-cg/webagents/blob/aaf1cadbaaf0869e19d5a3708f976c2fd2c76897/Meetings/2023-09-11-TPAC/README.md). <br>
 [slides](https://woutslabbinck.github.io/TPAC2023/slides/Position-statement-Wout-Slabbinck.html)
 
