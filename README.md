@@ -31,6 +31,7 @@ List of publications where I was author.
 
 <details>
 <summary>bibtex</summary>
+
 ```
 @inproceedings{01HFRR194TM7B2N4D5RNJ8R8MJ,
   author       = {{Windels, Tom and Slabbinck, Wout and Bonte, Pieter and Verstichel, Stijn and Colpaert, Pieter and Van Hoecke, Sofie and Ongenae, Femke}},
