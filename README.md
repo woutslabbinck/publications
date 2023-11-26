@@ -24,12 +24,13 @@ List of publications where I was author.
 ```
 </details>
 
-<details>
-<summary>bibtex</summary>
 
 [LDESTS: Enabling efficient storage and querying of large volumes of time series data on Solid pods](https://raw.githubusercontent.com/woutslabbinck/papers/main/2023/LDESTS.pdf)
 <br>
 *Accepted for publication*: Published in 2023 in Proceedings of the 22nd International Semantic Web Conference: Posters, Demos, and Industry Tracks <br>
+
+<details>
+<summary>bibtex</summary>
 ```
 @inproceedings{01HFRR194TM7B2N4D5RNJ8R8MJ,
   author       = {{Windels, Tom and Slabbinck, Wout and Bonte, Pieter and Verstichel, Stijn and Colpaert, Pieter and Van Hoecke, Sofie and Ongenae, Femke}},
