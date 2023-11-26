@@ -24,6 +24,25 @@ List of publications where I was author.
 ```
 </details>
 
+<details>
+<summary>bibtex</summary>
+
+[LDESTS: Enabling efficient storage and querying of large volumes of time series data on Solid pods](https://raw.githubusercontent.com/woutslabbinck/papers/main/2023/LDESTS.pdf)
+<br>
+*Accepted for publication*: Published in 2023 in Proceedings of the 22nd International Semantic Web Conference: Posters, Demos, and Industry Tracks <br>
+```
+@inproceedings{01HFRR194TM7B2N4D5RNJ8R8MJ,
+  author       = {{Windels, Tom and Slabbinck, Wout and Bonte, Pieter and Verstichel, Stijn and Colpaert, Pieter and Van Hoecke, Sofie and Ongenae, Femke}},
+  isbn         = {{978-3-031-47242-8}},
+  language     = {{und}},
+  location     = {{Athens, Greece}},
+  pages        = {{5}},
+  booktitle    = {Proceedings of the 22nd International Semantic Web Conference: Posters, Demos, and Industry Tracks},
+  title        = {{'LDESTS: Enabling efficient storage and querying of large volumes of time series data on Solid pods}},
+  year         = {{2023}},
+}
+```
+</details>
 
 Position statement: [Autonomous agents for Personal Data Stores](https://raw.githubusercontent.com/woutslabbinck/papers/main/2023/Position-Statement-Wout-Slabbinck.pdf) for the [WebAgents TPAC 2023 meeting](https://github.com/w3c-cg/webagents/blob/aaf1cadbaaf0869e19d5a3708f976c2fd2c76897/Meetings/2023-09-11-TPAC/README.md). <br>
 [slides](https://woutslabbinck.github.io/TPAC2023/slides/Position-statement-Wout-Slabbinck.html)
