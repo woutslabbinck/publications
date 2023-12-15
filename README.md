@@ -70,7 +70,7 @@ Position statement: [Autonomous agents for Personal Data Stores](https://raw.git
 Published in 2022 in Proceedings of the 6th Workshop on Storing, Querying and Benchmarking Knowledge Graphs. <br>
 [slides](https://pod.rubendedecker.be/scholar/presentations/QuWeDa2022/#)
 
-([CUER-WS source](https://ceur-ws.org/Vol-3279/paper6.pdf))
+([CEUR-WS source](https://ceur-ws.org/Vol-3279/paper6.pdf))
 
 <details>
 <summary>bibtex</summary>
@@ -96,7 +96,7 @@ Published in 2022 in Proceedings of the 6th Workshop on Storing, Querying and Be
 Published in 2022 in Proceedings of the 8th Workshop on Managing the Evolution and Preservation of the Data Web. <br>
 [slides](https://docs.google.com/presentation/d/1Ut07fAWJ7Xa1zEts1t4S6r_Gn3brMMjCvqO2xDJ12sE/edit?usp=sharing)
  
-([CUER-WS source](https://ceur-ws.org/Vol-3339/paper4.pdf))
+([CEUR-WS source](https://ceur-ws.org/Vol-3339/paper4.pdf))
 
  <details>
 <summary>bibtex</summary>
