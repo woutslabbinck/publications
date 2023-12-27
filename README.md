@@ -5,7 +5,7 @@ List of publications where I was author.
 ## 2023
 
 [A Rule-Based Software Agent on Top of Personal Data Stores](https://raw.githubusercontent.com/woutslabbinck/papers/main/2023/Rule-based_software_agent_PDS.pdf)<br>
-*Accepted for publication*: Published in 2023 in Proceedings of the 22nd International Semantic Web Conference: Posters, Demos, and Industry Tracks <br>
+Published in 2023 in Proceedings of the 22nd International Semantic Web Conference: Posters, Demos, and Industry Tracks <br>
 [Demo](https://github.com/SolidLabResearch/Solid-Agent/tree/main/documentation/iot)
 
 
@@ -27,7 +27,7 @@ List of publications where I was author.
 
 [LDESTS: Enabling efficient storage and querying of large volumes of time series data on Solid pods](https://raw.githubusercontent.com/woutslabbinck/papers/main/2023/LDESTS.pdf)
 <br>
-*Accepted for publication*: Published in 2023 in Proceedings of the 22nd International Semantic Web Conference: Posters, Demos, and Industry Tracks <br>
+Published in 2023 in Proceedings of the 22nd International Semantic Web Conference: Posters, Demos, and Industry Tracks <br>
 
 <details>
 <summary>bibtex</summary>
