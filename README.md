@@ -8,6 +8,7 @@ List of publications where I was author.
 Published in 2023 in Proceedings of the 22nd International Semantic Web Conference: Posters, Demos, and Industry Tracks <br>
 [Demo](https://github.com/SolidLabResearch/Solid-Agent/tree/main/documentation/iot)
 
+([CEUR-WS source](https://ceur-ws.org/Vol-3632/ISWC2023_paper_406.pdf))
 
 <details>
 <summary>bibtex</summary>
@@ -28,6 +29,8 @@ Published in 2023 in Proceedings of the 22nd International Semantic Web Conferen
 [LDESTS: Enabling efficient storage and querying of large volumes of time series data on Solid pods](https://raw.githubusercontent.com/woutslabbinck/papers/main/2023/LDESTS.pdf)
 <br>
 Published in 2023 in Proceedings of the 22nd International Semantic Web Conference: Posters, Demos, and Industry Tracks <br>
+
+([CEUR-WS source](https://ceur-ws.org/Vol-3632/ISWC2023_paper_425.pdf))
 
 <details>
 <summary>bibtex</summary>
