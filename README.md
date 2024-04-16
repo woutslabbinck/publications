@@ -2,6 +2,25 @@
 
 List of publications where I was author.
 
+## 2024
+
+[Interoperable and Continuous Usage Control Enforcement in Dataspaces]()<br>
+Accepted for the Proceedings of the Second International Workshop on Semantics in Dataspaces <br>
+
+<details>
+<summary>bibtex</summary>
+  
+```bibtex
+@inproceedings{akaichi_sds_2024,
+  author = {Akaichi, Inès and Slabbinck, Wout and Rojas Mel\'endez, Juli\'an Andr\'es and Van Gheluwe, Casper and Bozzi, Gabriele and Colpaert, Pieter and Verborgh, Ruben and Kirrane, Sabrina},
+  title = {Interoperable and Continuous Usage Control Enforcement in Dataspaces},
+  booktitle = {Proceedings of the Second International Workshop on Semantics in Dataspaces},
+  year = 2024,
+  month = may,
+}
+```
+</details>
+
 ## 2023
 
 [A Rule-Based Software Agent on Top of Personal Data Stores](https://raw.githubusercontent.com/woutslabbinck/papers/main/2023/Rule-based_software_agent_PDS.pdf)<br>
