@@ -4,7 +4,7 @@ List of publications where I was author.
 
 ## 2024
 
-[Interoperable and Continuous Usage Control Enforcement in Dataspaces](https://github.com/woutslabbinck/publications/blob/main/2024/Interoperable_and_Continuous_Usage_Control_Enforcement_in_Dataspaces.pdf)<br>
+[Interoperable and Continuous Usage Control Enforcement in Dataspaces](https://raw.githubusercontent.com/woutslabbinck/papers/main/2024/Interoperable_and_Continuous_Usage_Control_Enforcement_in_Dataspaces.pdf)<br>
 Accepted for the Proceedings of the Second International Workshop on Semantics in Dataspaces <br>
 
 <details>
