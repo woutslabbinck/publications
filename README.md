@@ -4,6 +4,23 @@ List of publications where I was author.
 
 ## 2024
 
+[Enforcing Usage Control Policies in Solid Using a Rule-Based Software Agent](https://pod.woutslabbinck.com/WIP/24-03-26_SoSy2024___Solid_Agent_for_UCP.pdf) (not final version) <br>
+Accepted for the Proceedings of the Second Solid Symposium <br>
+
+<details>
+<summary>bibtex</summary>
+  
+```bibtex
+@inproceedings{slabbinck_sosy_2024,
+  author    = {Slabbinck, Wout and Rojas Mel\'endez, Juli\'an Andr\'es and Verborgh, Ruben},
+  title     = {Enforcing Usage Control Policies in Solid Using a Rule-Based Software Agent},
+  booktitle = {Proceedings of the Second Solid Symposium},
+  year      = 2024,
+  month     = may
+}
+```
+</details>
+
 [Interoperable and Continuous Usage Control Enforcement in Dataspaces](https://github.com/woutslabbinck/publications/blob/main/2024/Interoperable_and_Continuous_Usage_Control_Enforcement_in_Dataspaces.pdf)<br>
 Accepted for the Proceedings of the Second International Workshop on Semantics in Dataspaces <br>
 
@@ -34,13 +51,12 @@ Published in 2023 in Proceedings of the 22nd International Semantic Web Conferen
 
 ```
 @inproceedings{slabbinck_iswc_poster_2023,
-  author = {Slabbinck, Wout and Dedecker, Ruben and Rojas Mel\'endez, Juli\'an Andr\'es and Verborgh, Ruben},
-  title = {A Rule-Based Software Agent on Top of Personal Data Stores},
+  author    = {Slabbinck, Wout and Dedecker, Ruben and Rojas Mel\'endez, Juli\'an Andr\'es and Verborgh, Ruben},
+  title     = {A Rule-Based Software Agent on Top of Personal Data Stores},
   booktitle = {Proceedings of the 22nd International Semantic Web Conference: Posters, Demos, and Industry Tracks},
-  year = 2023,
-  month = nov,
+  year      = 2023,
+  month     = nov
 }
-
 ```
 </details>
 
@@ -76,12 +92,12 @@ Position statement: [Autonomous agents for Personal Data Stores](https://raw.git
 
 ```
 @inproceedings{slabbinck_tpac_2023,
-  author = {Wout Slabbinck},
-  title = {Autonomous agents for Personal Data Stores},
+  author    = {Wout Slabbinck},
+  title     = {Autonomous agents for Personal Data Stores},
   booktitle = {WebAgents at Technical Plenary and Advisory Committee (TPAC)},
-  year = {2023},
-  month = sep,
-  url = {https://raw.githubusercontent.com/w3c-cg/webagents/aaf1cadbaaf0869e19d5a3708f976c2fd2c76897/Meetings/2023-09-11-TPAC/Statements/Position-Statement-Wout-Slabbinck.pdf}
+  year      = {2023},
+  month     = sep,
+  url       = {https://raw.githubusercontent.com/w3c-cg/webagents/aaf1cadbaaf0869e19d5a3708f976c2fd2c76897/Meetings/2023-09-11-TPAC/Statements/Position-Statement-Wout-Slabbinck.pdf}
 }
 ```
 </details>
@@ -99,17 +115,17 @@ Published in 2022 in Proceedings of the 6th Workshop on Storing, Querying and Be
 
 ```
 @inproceedings{dedecker_quweda_2022,
-  author = {Dedecker, Ruben and Slabbinck, Wout and Wright, Jesse and Hochstenbach, Patrick and Colpaert, Pieter and Verborgh, Ruben},
-  title = {What's in a Pod?~-- A knowledge graph interpretation for the {Solid} ecosystem},
+  author    = {Dedecker, Ruben and Slabbinck, Wout and Wright, Jesse and Hochstenbach, Patrick and Colpaert, Pieter and Verborgh, Ruben},
+  title     = {What's in a Pod?~-- A knowledge graph interpretation for the {Solid} ecosystem},
   booktitle = {Proceedings of the 6th Workshop on Storing, Querying and Benchmarking Knowledge Graphs},
-  editor = {Saleem, Muhammad and Ngonga Ngomo, Axel-Cyrille},
-  year = 2022,
-  month = oct,
-  series = {CEUR Workshop Proceedings},
-  volume = 3279,
-  issn = {1613-0073},
-  pages = {81--96},
-  url = {https://solidlabresearch.github.io/WhatsInAPod/},
+  editor    = {Saleem, Muhammad and Ngonga Ngomo, Axel-Cyrille},
+  year      = 2022,
+  month     = oct,
+  series    = {CEUR Workshop Proceedings},
+  volume    = 3279,
+  issn      = {1613-0073},
+  pages     = {81--96},
+  url       = {https://solidlabresearch.github.io/WhatsInAPod/}
 }
 ```
 </details>
@@ -125,17 +141,17 @@ Published in 2022 in Proceedings of the 8th Workshop on Managing the Evolution a
 
 ```
 @inproceedings{slabbinck_mepdaw_2022,
-  author = {Slabbinck, Wout and Dedecker, Ruben and Vasireddy, Sindhu and Verborgh, Ruben and Colpaert, Pieter},
-  title = {Linked Data Event Streams in Solid LDP containers},
+  author    = {Slabbinck, Wout and Dedecker, Ruben and Vasireddy, Sindhu and Verborgh, Ruben and Colpaert, Pieter},
+  title     = {Linked Data Event Streams in Solid LDP containers},
   booktitle = {Proceedings of the 8th Workshop on Managing the Evolution and Preservation of the Data Web},
-  editor = {Graux, Damien and Orlandi, Fabrizio and Niazmand, Emetis and Ydler, Gabriela and Vidal, Maria-Esther},
-  year = 2022,
-  month = oct,
-  series = {CEUR Workshop Proceedings},
-  volume = 3339,
-  issn = {1613-0073},
-  pages = {28--35},
-  url = {https://ceur-ws.org/Vol-3339/paper4.pdf},
+  editor    = {Graux, Damien and Orlandi, Fabrizio and Niazmand, Emetis and Ydler, Gabriela and Vidal, Maria-Esther},
+  year      = 2022,
+  month     = oct,
+  series    = {CEUR Workshop Proceedings},
+  volume    = 3339,
+  issn      = {1613-0073},
+  pages     = {28--35},
+  url       = {https://ceur-ws.org/Vol-3339/paper4.pdf}
 }
 ```
 </details>
