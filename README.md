@@ -21,7 +21,7 @@ Accepted for the Proceedings of the Second Solid Symposium <br>
 ```
 </details>
 
-[Interoperable and Continuous Usage Control Enforcement in Dataspaces](https://github.com/woutslabbinck/publications/blob/main/2024/Interoperable_and_Continuous_Usage_Control_Enforcement_in_Dataspaces.pdf)<br>
+[Interoperable and Continuous Usage Control Enforcement in Dataspaces](https://raw.githubusercontent.com/woutslabbinck/papers/main/2024/Interoperable_and_Continuous_Usage_Control_Enforcement_in_Dataspaces.pdf)<br>
 Accepted for the Proceedings of the Second International Workshop on Semantics in Dataspaces <br>
 
 <details>
@@ -29,11 +29,11 @@ Accepted for the Proceedings of the Second International Workshop on Semantics i
   
 ```bibtex
 @inproceedings{akaichi_sds_2024,
-  author = {Akaichi, Inès and Slabbinck, Wout and Rojas Mel\'endez, Juli\'an Andr\'es and Van Gheluwe, Casper and Bozzi, Gabriele and Colpaert, Pieter and Verborgh, Ruben and Kirrane, Sabrina},
-  title = {Interoperable and Continuous Usage Control Enforcement in Dataspaces},
+  author    = {Akaichi, Inès and Slabbinck, Wout and Rojas Mel\'endez, Juli\'an Andr\'es and Van Gheluwe, Casper and Bozzi, Gabriele and Colpaert, Pieter and Verborgh, Ruben and Kirrane, Sabrina},
+  title     = {Interoperable and Continuous Usage Control Enforcement in Dataspaces},
   booktitle = {Proceedings of the Second International Workshop on Semantics in Dataspaces},
-  year = 2024,
-  month = may,
+  year      = 2024,
+  month     = may
 }
 ```
 </details>
