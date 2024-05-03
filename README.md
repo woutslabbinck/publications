@@ -5,7 +5,8 @@ List of publications where I was author.
 ## 2024
 
 [Enforcing Usage Control Policies in Solid Using a Rule-Based Software Agent](https://pod.woutslabbinck.com/WIP/24-03-26_SoSy2024___Solid_Agent_for_UCP.pdf) (not final version) <br>
-Accepted for the Proceedings of the Second Solid Symposium <br>
+Accepted for the Proceedings of the Second Solid Symposium [(privacy session)](https://solidweb.me/besteves4/sosy24-privacy/privacy-session.html)<br>
+[slides](https://docs.google.com/presentation/d/1oT2EXt5vs1K9tiAe6wei2vG_TradiPBfUEoWf9dMlYk/)
 
 <details>
 <summary>bibtex</summary>
