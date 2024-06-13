@@ -23,19 +23,29 @@ Accepted for the Proceedings of the Second Solid Symposium [(privacy session)](h
 </details>
 
 [Interoperable and Continuous Usage Control Enforcement in Dataspaces](https://raw.githubusercontent.com/woutslabbinck/papers/main/2024/Interoperable_and_Continuous_Usage_Control_Enforcement_in_Dataspaces.pdf)<br>
-Accepted for the Proceedings of the Second International Workshop on Semantics in Dataspaces <br>
+Published in 2024 at the Proceedings of the Second International Workshop on Semantics in Dataspaces(SDS 2024), co-located with the 21st Extended Semantic Web Conference (ESWC 2024) <br>
 [slides](https://docs.google.com/presentation/d/1JsyHcc6SWJRM9S7qcwrFt0gVOigWEk9KYZRZZD0C9lU/edit?usp=sharing)
 
+([CEUR-WS source](https://ceur-ws.org/Vol-3705/paper10.pdf))
 <details>
 <summary>bibtex</summary>
   
 ```bibtex
 @inproceedings{akaichi_sds_2024,
-  author    = {Akaichi, Inès and Slabbinck, Wout and Rojas Mel\'endez, Juli\'an Andr\'es and Van Gheluwe, Casper and Bozzi, Gabriele and Colpaert, Pieter and Verborgh, Ruben and Kirrane, Sabrina},
-  title     = {Interoperable and Continuous Usage Control Enforcement in Dataspaces},
-  booktitle = {Proceedings of the Second International Workshop on Semantics in Dataspaces},
-  year      = 2024,
-  month     = may
+	address = {Hersonissos, Greece},
+	series = {{CEUR} {Workshop} {Proceedings}},
+	title = {Interoperable and {Continuous} {Usage} {Control} {Enforcement} in {Dataspaces}},
+	volume = {3705},
+	url = {https://ceur-ws.org/Vol-3705/#paper10},
+	language = {en},
+	urldate = {2024-06-11},
+	booktitle = {Proceedings of the {Second} {International} {Workshop} on {Semantics} in {Dataspaces} ({SDS} 2024)},
+	publisher = {CEUR},
+	author = {Akaichi, Inès and Slabbinck, Wout and Rojas, Julián Andrés and Gheluwe, Casper Van and Bozzi, Gabriele and Colpaert, Pieter and Verborgh, Ruben and Kirrane, Sabrina},
+	editor = {Theissen-Lipp, Johannes and Colpaert, Pieter and Sowe, Sulayman K. and Curry, Edward and Decker, Stefan},
+	month = may,
+	year = {2024},
+	note = {ISSN: 1613-0073},
 }
 ```
 </details>
