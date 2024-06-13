@@ -23,7 +23,7 @@ Accepted for the Proceedings of the Second Solid Symposium [(privacy session)](h
 </details>
 
 [Interoperable and Continuous Usage Control Enforcement in Dataspaces](https://raw.githubusercontent.com/woutslabbinck/papers/main/2024/Interoperable_and_Continuous_Usage_Control_Enforcement_in_Dataspaces.pdf)<br>
-Published in 2024 at the Proceedings of the Second International Workshop on Semantics in Dataspaces(SDS 2024), co-located with the 21st Extended Semantic Web Conference (ESWC 2024) <br>
+Published in 2024 at the Proceedings of the Second International Workshop on Semantics in Dataspaces (SDS 2024), co-located with the 21st Extended Semantic Web Conference (ESWC 2024) <br>
 [slides](https://docs.google.com/presentation/d/1JsyHcc6SWJRM9S7qcwrFt0gVOigWEk9KYZRZZD0C9lU/edit?usp=sharing)
 
 ([CEUR-WS source](https://ceur-ws.org/Vol-3705/paper10.pdf))
