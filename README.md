@@ -4,6 +4,9 @@ List of publications where I was author.
 
 ## 2024
 
+[The need for Usage Control in Decentralized and Federated ecosystems](https://pod.woutslabbinck.com/WIP/Wout_Slabbinck-The_need_for_Usage_Control_in_Decentralized_and_Federated_ecosystems.pdf) (not final version) <br>
+Accepted for the  Proceedings of the Doctoral Consortium at ISWC 2024 
+
 [Enforcing Usage Control Policies in Solid Using a Rule-Based Software Agent](https://pod.woutslabbinck.com/WIP/24-03-26_SoSy2024___Solid_Agent_for_UCP.pdf) (not final version) <br>
 Accepted for the Proceedings of the Second Solid Symposium [(privacy session)](https://solidweb.me/besteves4/sosy24-privacy/privacy-session.html)<br>
 [slides](https://docs.google.com/presentation/d/1oT2EXt5vs1K9tiAe6wei2vG_TradiPBfUEoWf9dMlYk/)
@@ -23,7 +26,7 @@ Accepted for the Proceedings of the Second Solid Symposium [(privacy session)](h
 </details>
 
 [Interoperable and Continuous Usage Control Enforcement in Dataspaces](https://raw.githubusercontent.com/woutslabbinck/papers/main/2024/Interoperable_and_Continuous_Usage_Control_Enforcement_in_Dataspaces.pdf)<br>
-Accepted for the Proceedings of the Second International Workshop on Semantics in Dataspaces <br>
+Published in 2024 in Proceedings of the Second International Workshop on Semantics in Dataspaces <br>
 [slides](https://docs.google.com/presentation/d/1JsyHcc6SWJRM9S7qcwrFt0gVOigWEk9KYZRZZD0C9lU/edit?usp=sharing)
 
 <details>
