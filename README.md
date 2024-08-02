@@ -7,7 +7,7 @@ List of publications where I was author.
 [The need for Usage Control in Decentralized and Federated ecosystems](https://pod.woutslabbinck.com/WIP/Wout_Slabbinck-The_need_for_Usage_Control_in_Decentralized_and_Federated_ecosystems.pdf) (not final version) <br>
 Accepted for the  Proceedings of the Doctoral Consortium at ISWC 2024 
 
-[Enforcing Usage Control Policies in Solid Using a Rule-Based Software Agent](https://pod.woutslabbinck.com/WIP/24-06-21_Enforcing_UCP_in_Solid-using_Rule-based_Web_Agents.pdf) <br>
+[Enforcing Usage Control Policies in Solid using Rule-Based Software Agents](https://pod.woutslabbinck.com/WIP/24-06-21_Enforcing_UCP_in_Solid-using_Rule-based_Web_Agents.pdf) <br>
 Accepted for the Proceedings of the Second Solid Symposium [(privacy session)](https://solidweb.me/besteves4/sosy24-privacy/privacy-session.html)<br>
 [slides](https://docs.google.com/presentation/d/1oT2EXt5vs1K9tiAe6wei2vG_TradiPBfUEoWf9dMlYk/)
 
