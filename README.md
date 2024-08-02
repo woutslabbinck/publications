@@ -16,8 +16,8 @@ Accepted for the Proceedings of the Second Solid Symposium [(privacy session)](h
   
 ```bibtex
 @inproceedings{slabbinck_sosy_2024,
-  author    = {Slabbinck, Wout and Rojas Mel\'endez, Juli\'an Andr\'es and Verborgh, Ruben},
-  title     = {Enforcing Usage Control Policies in Solid Using a Rule-Based Software Agent},
+  author    = {Slabbinck, Wout and Rojas Meléndez, Julián Andrés and Esteves, Beatriz and Verborgh, Ruben and Colpaert, Pieter},
+  title     = {Enforcing Usage Control Policies in Solid using Rule-Based Web Agents},
   booktitle = {Proceedings of the Second Solid Symposium},
   year      = 2024,
   month     = may
