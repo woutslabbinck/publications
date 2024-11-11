@@ -4,8 +4,29 @@ List of publications where I was author.
 
 ## 2024
 
+[From Resource Control to Digital Trust with User-Managed Access](https://arxiv.org/pdf/2411.05622) <br>
+Published on 8 November 2024 via [Arxiv](https://arxiv.org/abs/2411.05622).
+
+([Arxiv source](https://arxiv.org/pdf/2411.05622))
+
+<details>
+<summary>bibtex</summary>
+	
+```bibtex
+@misc{termont2024resourcecontroldigitaltrust,
+      title={From Resource Control to Digital Trust with User-Managed Access}, 
+      author={Wouter Termont and Ruben Dedecker and Wout Slabbinck and Beatriz Esteves and Ben De Meester and Ruben Verborgh},
+      year={2024},
+      eprint={2411.05622},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2411.05622}, 
+}
+```
+</details>
+
 [The need for Usage Control in Decentralized and Federated ecosystems](https://pod.woutslabbinck.com/WIP/Wout_Slabbinck-The_need_for_Usage_Control_in_Decentralized_and_Federated_ecosystems.pdf) (not final version) <br>
-Accepted for the  Proceedings of the Doctoral Consortium at ISWC 2024 
+Accepted for the Proceedings of the Doctoral Consortium at ISWC 2024 
 
 [Enforcing Usage Control Policies in Solid using Rule-Based Software Agents](https://pod.woutslabbinck.com/WIP/24-06-21_Enforcing_UCP_in_Solid-using_Rule-based_Web_Agents.pdf) <br>
 Accepted for the Proceedings of the Second Solid Symposium [(privacy session)](https://solidweb.me/besteves4/sosy24-privacy/privacy-session.html)<br>
