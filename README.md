@@ -4,7 +4,7 @@ List of publications where I was author.
 
 ## 2024
 
-[From Resource Control to Digital Trust with User-Managed Access](https://arxiv.org/pdf/2411.05622) <br>
+[From Resource Control to Digital Trust with User-Managed Access](2024/User-Managed-Access_White-paper.pdf) <br>
 Published on 8 November 2024 via [Arxiv](https://arxiv.org/abs/2411.05622).
 
 ([Arxiv source](https://arxiv.org/pdf/2411.05622))
