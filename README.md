@@ -25,8 +25,9 @@ Published on 8 November 2024 via [Arxiv](https://arxiv.org/abs/2411.05622).
 ```
 </details>
 
-[The need for Usage Control in Decentralized and Federated ecosystems](https://pod.woutslabbinck.com/WIP/Wout_Slabbinck-The_need_for_Usage_Control_in_Decentralized_and_Federated_ecosystems.pdf) (not final version) <br>
-Accepted for the Proceedings of the Doctoral Consortium at ISWC 2024 
+[The Need for Usage Control in Decentralized and Federated Ecosystems](https://raw.githubusercontent.com/woutslabbinck/papers/main/2024/The_need_for_Usage_Control_in_Decentralized_and_Federated_ecosystems) <br>
+Accepted for the Proceedings of the Doctoral Consortium at ISWC 2024 <br>
+[slides](https://docs.google.com/presentation/d/1G1BXxn2S61IAEdKT_R0b1CBUC2Vizz6yTo1E2S8luhU/edit?usp=sharing)
 
 [Enforcing Usage Control Policies in Solid using Rule-Based Software Agents](https://pod.woutslabbinck.com/WIP/24-06-21_Enforcing_UCP_in_Solid-using_Rule-based_Web_Agents.pdf) <br>
 Accepted for the Proceedings of the Second Solid Symposium [(privacy session)](https://solidweb.me/besteves4/sosy24-privacy/privacy-session.html)<br>
