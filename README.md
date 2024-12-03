@@ -25,7 +25,7 @@ Published on 8 November 2024 via [Arxiv](https://arxiv.org/abs/2411.05622).
 ```
 </details>
 
-[The Need for Usage Control in Decentralized and Federated Ecosystems](https://raw.githubusercontent.com/woutslabbinck/papers/main/2024/The_need_for_Usage_Control_in_Decentralized_and_Federated_ecosystems) <br>
+[The Need for Usage Control in Decentralized and Federated Ecosystems](https://raw.githubusercontent.com/woutslabbinck/papers/main/2024/The_need_for_Usage_Control_in_Decentralized_and_Federated_ecosystems.pdf) <br>
 Accepted for the Proceedings of the Doctoral Consortium at ISWC 2024 <br>
 [slides](https://docs.google.com/presentation/d/1G1BXxn2S61IAEdKT_R0b1CBUC2Vizz6yTo1E2S8luhU/edit?usp=sharing)
 
