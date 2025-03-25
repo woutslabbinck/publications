@@ -2,6 +2,25 @@
 
 List of publications where I was author.
 
+## 2025
+
+[Interoperable Interpretation and Evaluation of ODRL Policies](https://raw.githubusercontent.com/woutslabbinck/papers/main/2025/Interoperable-Interpretation-and-Evaluation-of-ODRL-Policies.pdf) <br>
+Accepted for the ESWC 2025 Resource Track.
+
+<details>
+<summary>bibtex</summary>
+	
+```bibtex
+@inproceedings{wout_slabbinck_interoperable_2025,
+	title = {Interoperable {Interpretation} and {Evaluation} of {ODRL} {Policies}},
+	booktitle = {Accepted for {Semantic} {Web} - 22nd {International} {Conference}, {ESWC} 2025},
+	author = {{Wout Slabbinck} and {Julián Andrés Rojas} and {Beatriz Esteves} and {Pieter Colpaert} and {Ruben Verborgh}},
+	month = jun,
+	year = {2025},
+}
+```
+</details>
+
 ## 2024
 
 [From Resource Control to Digital Trust with User-Managed Access](https://raw.githubusercontent.com/woutslabbinck/papers/main/2024/User-Managed-Access_White-paper.pdf) <br>
