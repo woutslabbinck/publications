@@ -6,7 +6,7 @@ List of publications where I was author.
 
 [Interoperable Interpretation and Evaluation of ODRL Policies](https://raw.githubusercontent.com/woutslabbinck/papers/main/2025/Interoperable-Interpretation-and-Evaluation-of-ODRL-Policies.pdf) <br>
 Accepted for the ESWC 2025 Resource Track.
-
+  
 <details>
 <summary>bibtex</summary>
 	
@@ -16,6 +16,24 @@ Accepted for the ESWC 2025 Resource Track.
 	booktitle = {Accepted for {Semantic} {Web} - 22nd {International} {Conference}, {ESWC} 2025},
 	author = {{Wout Slabbinck} and {Julián Andrés Rojas} and {Beatriz Esteves} and {Pieter Colpaert} and {Ruben Verborgh}},
 	month = jun,
+	year = {2025},
+}
+```
+</details>
+
+
+[From Access Control to Usage Control with User-Managed Access](https://openreview.net/pdf?id=FBwLQd6rSK) (submitted version - not camera ready) <br>
+Accepted for the Proceedings of the Posters and Privacy Session of the Solid Symposium 2025 ([3rd Privacy & Personal Data Management Session](https://besteves4.github.io/sosy2025-privacy/)).
+  
+<details>
+<summary>bibtex</summary>
+	
+```bibtex
+@inproceedings{slabbinck_access_2025,
+	address = {Leiden, Netherlands},
+	title = {From {Access} {Control} to {Usage} {Control} with {User}-{Managed} {Access}},
+	author = {Slabbinck, Wout and Dedecker, Ruben and Termont, Wouter and Esteves, Beatriz and Colpaert, Pieter and Verborgh, Ruben},
+	month = apr,
 	year = {2025},
 }
 ```
@@ -59,7 +77,7 @@ Published in 2024 in Proceedings of the Doctoral Consortium at ISWC 2024 <br>
 	series = {{CEUR} {Workshop} {Proceedings}},
 	title = {The need for {Usage} {Control} in {Decentralized} and {Federated} {Ecosystems}},
 	volume = {3884},
-	url = {https://ceur-ws.org/Vol-3884/#paper2},
+	url = {https://ceur-ws.org/Vol-3884/paper2},
 	language = {en},
 	urldate = {2024-12-27},
 	booktitle = {Proceedings of the {Doctoral} {Consortium} at {ISWC} 2024},
@@ -73,21 +91,34 @@ Published in 2024 in Proceedings of the Doctoral Consortium at ISWC 2024 <br>
 ```
 </details>
 
-[Enforcing Usage Control Policies in Solid using Rule-Based Software Agents](https://pod.woutslabbinck.com/WIP/24-06-21_Enforcing_UCP_in_Solid-using_Rule-based_Web_Agents.pdf) <br>
-Accepted for the Proceedings of the Second Solid Symposium [(privacy session)](https://solidweb.me/besteves4/sosy24-privacy/privacy-session.html)<br>
+[Enforcing Usage Control Policies in Solid using Rule-Based Software Agents](https://raw.githubusercontent.com/woutslabbinck/papers/main/2024/Enforcing_UCP_in_Solid-using_Rule-based_Web_Agents.pdf) <br>
+Published in [Proceedings of the Posters and Privacy Session of the Solid Symposium 2024](https://ceur-ws.org/Vol-3947/) ([Privacy session](https://solidweb.me/besteves4/sosy24-privacy/privacy-session.html))<br>
 [slides](https://docs.google.com/presentation/d/1oT2EXt5vs1K9tiAe6wei2vG_TradiPBfUEoWf9dMlYk/)
+([CEUR-WS source](https://ceur-ws.org/Vol-3947/short15.pdf))
+
 
 <details>
 <summary>bibtex</summary>
   
 ```bibtex
-@inproceedings{slabbinck_sosy_2024,
-  author    = {Slabbinck, Wout and Rojas Meléndez, Julián Andrés and Esteves, Beatriz and Verborgh, Ruben and Colpaert, Pieter},
-  title     = {Enforcing Usage Control Policies in Solid using Rule-Based Web Agents},
-  booktitle = {Proceedings of the Second Solid Symposium},
-  year      = 2024,
-  month     = may
+@inproceedings{slabbinck_enforcing_2024,
+	address = {Leuven, Belgium},
+	series = {{CEUR} {Workshop} {Proceedings}},
+	title = {Enforcing {Usage} {Control} {Policies} in {Solid} using {Rule}-{Based} {Web} {Agents}},
+	volume = {3947},
+	url = {https://ceur-ws.org/Vol-3947/short15},
+	language = {en},
+	urldate = {2025-04-07},
+	booktitle = {Proceedings of the {Posters} and {Privacy} {Session} of the {Solid} {Symposium} 2024},
+	publisher = {CEUR},
+	author = {Slabbinck, Wout and Rojas, Julián Andrés and Esteves, Beatriz and Verborgh, Ruben and Colpaert, Pieter},
+	editor = {Esteves, Beatriz and Hofmann, Jan and Schmid, Sebastian},
+	month = may,
+	year = {2024},
+	note = {ISSN: 1613-0073},
+	pages = {109--117},
 }
+
 ```
 </details>
 
@@ -105,7 +136,7 @@ Published in 2024 at the Proceedings of the Second International Workshop on Sem
 	series = {{CEUR} {Workshop} {Proceedings}},
 	title = {Interoperable and {Continuous} {Usage} {Control} {Enforcement} in {Dataspaces}},
 	volume = {3705},
-	url = {https://ceur-ws.org/Vol-3705/#paper10},
+	url = {https://ceur-ws.org/Vol-3705/paper10},
 	language = {en},
 	urldate = {2024-06-11},
 	booktitle = {Proceedings of the {Second} {International} {Workshop} on {Semantics} in {Dataspaces} ({SDS} 2024)},
@@ -130,7 +161,7 @@ Published in 2023 in Proceedings of the 22nd International Semantic Web Conferen
 <details>
 <summary>bibtex</summary>
 
-```
+```bibtex
 @inproceedings{slabbinck_iswc_poster_2023,
   author    = {Slabbinck, Wout and Dedecker, Ruben and Rojas Mel\'endez, Juli\'an Andr\'es and Verborgh, Ruben},
   title     = {A Rule-Based Software Agent on Top of Personal Data Stores},
@@ -151,7 +182,7 @@ Published in 2023 in Proceedings of the 22nd International Semantic Web Conferen
 <details>
 <summary>bibtex</summary>
 
-```
+```bibtex
 @inproceedings{01HFRR194TM7B2N4D5RNJ8R8MJ,
   author       = {{Windels, Tom and Slabbinck, Wout and Bonte, Pieter and Verstichel, Stijn and Colpaert, Pieter and Van Hoecke, Sofie and Ongenae, Femke}},
   isbn         = {{978-3-031-47242-8}},
@@ -171,7 +202,7 @@ Position statement: [Autonomous agents for Personal Data Stores](https://raw.git
 <details>
 <summary>bibtex</summary>
 
-```
+```bibtex
 @inproceedings{slabbinck_tpac_2023,
   author    = {Wout Slabbinck},
   title     = {Autonomous agents for Personal Data Stores},
@@ -194,7 +225,7 @@ Published in 2022 in Proceedings of the 6th Workshop on Storing, Querying and Be
 <details>
 <summary>bibtex</summary>
 
-```
+```bibtex
 @inproceedings{dedecker_quweda_2022,
   author    = {Dedecker, Ruben and Slabbinck, Wout and Wright, Jesse and Hochstenbach, Patrick and Colpaert, Pieter and Verborgh, Ruben},
   title     = {What's in a Pod?~-- A knowledge graph interpretation for the {Solid} ecosystem},
@@ -220,7 +251,7 @@ Published in 2022 in Proceedings of the 8th Workshop on Managing the Evolution a
  <details>
 <summary>bibtex</summary>
 
-```
+```bibtex
 @inproceedings{slabbinck_mepdaw_2022,
   author    = {Slabbinck, Wout and Dedecker, Ruben and Vasireddy, Sindhu and Verborgh, Ruben and Colpaert, Pieter},
   title     = {Linked Data Event Streams in Solid LDP containers},
@@ -233,6 +264,28 @@ Published in 2022 in Proceedings of the 8th Workshop on Managing the Evolution a
   issn      = {1613-0073},
   pages     = {28--35},
   url       = {https://ceur-ws.org/Vol-3339/paper4.pdf}
+}
+```
+</details>
+
+## 2021
+
+[Cross Application Interoperability by Management of Smart Home Sensor Data in Solid](https://raw.githubusercontent.com/woutslabbinck/papers/main/2022/) <br>
+Master's dissertation submitted in order to obtain the academic degree of Master of Science in Computer Science Engineering
+
+ <details>
+<summary>bibtex</summary>
+
+```bibtex
+@mastersthesis{slabbinck_interoperabiliteit_2021,
+	address = {Ghent},
+	title = {Interoperabiliteit tussen applicaties met behulp van {Solid} voor het beheren van sensordata in slimme woningen},
+	url = {http://lib.ugent.be/catalog/rug01:003014963},
+	abstract = {Master of Science in Computer Science Engineering},
+	language = {und},
+	school = {Ghent University},
+	author = {Slabbinck, Wout},
+	year = {2021},
 }
 ```
 </details>
