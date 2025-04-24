@@ -4,6 +4,23 @@ List of publications where I was author.
 
 ## 2025
 
+Semantic Framework for Legally-aligned Health Data Exchanges <br>
+Accepted for the first [OPAL](https://opal-workshop.github.io/2025/) workshop, co-located with ESWC 2025.
+
+<details>
+<summary>bibtex</summary>
+	
+```bibtex
+@inproceedings{esteves_semantic_2025,
+	title = {Semantic Framework for Legally-aligned Health Data Exchanges},
+	booktitle = {Accepted for OPAL 2025, co-located with ESWC 2025},
+	author = {{Beatriz Esteves} and {Ruben Dedecker} and {Wout Slabbinck} and {Filip Pattyn} and {Ruben Verborgh}},
+	month = jun,
+	year = {2025},
+}
+```
+</details>
+
 [Interoperable Interpretation and Evaluation of ODRL Policies](https://raw.githubusercontent.com/woutslabbinck/papers/main/2025/Interoperable-Interpretation-and-Evaluation-of-ODRL-Policies.pdf) <br>
 Accepted for the ESWC 2025 Resource Track.
   
@@ -23,8 +40,9 @@ Accepted for the ESWC 2025 Resource Track.
 
 
 [From Access Control to Usage Control with User-Managed Access](https://openreview.net/pdf?id=FBwLQd6rSK) (submitted version - not camera ready) <br>
-Accepted for the Proceedings of the Posters and Privacy Session of the Solid Symposium 2025 ([3rd Privacy & Personal Data Management Session](https://besteves4.github.io/sosy2025-privacy/)).
-  
+Accepted for the Proceedings of the Posters and Privacy Session of the Solid Symposium 2025 ([3rd Privacy & Personal Data Management Session](https://besteves4.github.io/sosy2025-privacy/)). <br>
+[slides](https://docs.google.com/presentation/d/1Qg7_39NH2cLULty0LcYfVjhqqSuoNm0MKLEaayNgXcM)  
+
 <details>
 <summary>bibtex</summary>
 	
@@ -42,8 +60,7 @@ Accepted for the Proceedings of the Posters and Privacy Session of the Solid Sym
 ## 2024
 
 [From Resource Control to Digital Trust with User-Managed Access](https://raw.githubusercontent.com/woutslabbinck/papers/main/2024/User-Managed-Access_White-paper.pdf) <br>
-Published on 8 November 2024 via [Arxiv](https://arxiv.org/abs/2411.05622).
-
+Published on 8 November 2024 via [Arxiv](https://arxiv.org/abs/2411.05622). <br>
 ([Arxiv source](https://arxiv.org/pdf/2411.05622))
 
 <details>
