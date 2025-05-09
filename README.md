@@ -4,7 +4,7 @@ List of publications where I was author.
 
 ## 2025
 
-Semantic Framework for Legally-aligned Health Data Exchanges <br>
+[Semantic Framework for Legally-aligned Health Data Exchanges](https://raw.githubusercontent.com/woutslabbinck/papers/main/2025/Semantic_Framework_for_Legally-aligned_Health_Data_Exchanges.pdf) <br>
 Accepted for the first [OPAL](https://opal-workshop.github.io/2025/) workshop, co-located with ESWC 2025.
 
 <details>
@@ -14,7 +14,7 @@ Accepted for the first [OPAL](https://opal-workshop.github.io/2025/) workshop, c
 @inproceedings{esteves_semantic_2025,
 	title = {Semantic Framework for Legally-aligned Health Data Exchanges},
 	booktitle = {Accepted for OPAL 2025, co-located with ESWC 2025},
-	author = {{Beatriz Esteves} and {Ruben Dedecker} and {Wout Slabbinck} and {Filip Pattyn} and {Ruben Verborgh}},
+	author = {Esteves, Beatriz and Dedecker, Ruben and Slabbinck, Wout and Pattyn, Filip and Verborgh, Ruben},
 	month = jun,
 	year = {2025},
 }
@@ -28,13 +28,15 @@ Accepted for the ESWC 2025 Resource Track.
 <summary>bibtex</summary>
 	
 ```bibtex
-@inproceedings{wout_slabbinck_interoperable_2025,
+
+@inproceedings{slabbinck_interoperable_2025,
 	title = {Interoperable {Interpretation} and {Evaluation} of {ODRL} {Policies}},
 	booktitle = {Accepted for {Semantic} {Web} - 22nd {International} {Conference}, {ESWC} 2025},
-	author = {{Wout Slabbinck} and {Julián Andrés Rojas} and {Beatriz Esteves} and {Pieter Colpaert} and {Ruben Verborgh}},
+	author = {Slabbinck, Wout and Rojas, Julián Andrés and Esteves, Beatriz and Colpaert, Pieter and Verborgh, Ruben},
 	month = jun,
 	year = {2025},
 }
+
 ```
 </details>
 
