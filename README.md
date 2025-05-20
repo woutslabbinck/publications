@@ -289,7 +289,7 @@ Published in 2022 in Proceedings of the 8th Workshop on Managing the Evolution a
 
 ## 2021
 
-[Cross Application Interoperability by Management of Smart Home Sensor Data in Solid](https://raw.githubusercontent.com/woutslabbinck/papers/main/2022/) <br>
+[Cross Application Interoperability by Management of Smart Home Sensor Data in Solid](https://raw.githubusercontent.com/woutslabbinck/papers/main/2021/Master-Thesis-Wout-Slabbinck.pdf) <br>
 Master's dissertation submitted in order to obtain the academic degree of Master of Science in Computer Science Engineering
 
  <details>
