@@ -22,7 +22,8 @@ Accepted for the first [OPAL](https://opal-workshop.github.io/2025/) workshop, c
 </details>
 
 [Interoperable Interpretation and Evaluation of ODRL Policies](https://raw.githubusercontent.com/woutslabbinck/papers/main/2025/Interoperable-Interpretation-and-Evaluation-of-ODRL-Policies.pdf) <br>
-Accepted for the ESWC 2025 Resource Track.
+([Springer source](https://link.springer.com/chapter/10.1007/978-3-031-94578-6_11)) <br>
+[slides](https://docs.google.com/presentation/d/1_bGV6QkydgzWYaKnBtLtgS-d0Xe_k5ItwnarVCvjXi4/edit?usp=sharing)
   
 <details>
 <summary>bibtex</summary>
@@ -30,11 +31,18 @@ Accepted for the ESWC 2025 Resource Track.
 ```bibtex
 
 @inproceedings{slabbinck_interoperable_2025,
-	title = {Interoperable {Interpretation} and {Evaluation} of {ODRL} {Policies}},
-	booktitle = {Accepted for {Semantic} {Web} - 22nd {International} {Conference}, {ESWC} 2025},
-	author = {Slabbinck, Wout and Rojas, Julián Andrés and Esteves, Beatriz and Colpaert, Pieter and Verborgh, Ruben},
-	month = jun,
+	address = {Cham},
+	title = {Interoperable Interpretation and Evaluation of ODRL Policies},
+	isbn = {978-3-031-94578-6},
+	doi = {10.1007/978-3-031-94578-6_11},
+	abstract = {On the Web, consent banners (cookies) are the prevailing response to legislation such as GDPR for handling protected data. These banners are meant to inform users about how their personal data will be managed by services and third parties. Unfortunately, there is no room for negotiation over these privacy preferences; users either accept the terms to use the Web services or deny them and likely end up with limited or no access. For negotiation to arise, parties must share a common language that is able to describe rights, duties and constraints over digital assets. Given the technical, societal and legal requirements for dealing with privacy preferences, this language must be sufficiently expressive in order to guarantee accuracy. The Open Digital Rights Language (ODRL) standard meets such requirements. However, the lack of a formalism regarding enforcement hinders its adoption. To this end, we propose a systemic approach to interpret and evaluate ODRL Policies, facilitating the creation of interoperable policy engines for enforcing expressive policies. In this paper, we introduce i) the Compliance Report Model to denote the result of an ODRL evaluation in an interoperable manner, ii) test cases comprised of policies, context and the aforementioned model to ensure correctness of policy engines, iii) and the ODRL Evaluator, an implementation that systematically evaluates ODRL policies. We show the expressiveness of our model and the effectiveness of our implementation through an evaluation of the test suite. Addressing the lack of formalisation of ODRL paves the road for negotiation over privacy preferences and establishes the foundations for interoperable policy exchange and evaluations over the Web. Future work includes the further formalisation of the context of policy evaluation and the need for inter-policy strategies for conflict resolution.},
+	language = {en},
+	booktitle = {The Semantic Web},
+	publisher = {Springer Nature Switzerland},
+	author = {Slabbinck, Wout and Rojas Meléndez, Julián and Esteves, Beatriz and Colpaert, Pieter and Verborgh, Ruben},
+	editor = {Curry, Edward and Acosta, Maribel and Poveda-Villalón, Maria and van Erp, Marieke and Ojo, Adegboyega and Hose, Katja and Shimizu, Cogan and Lisena, Pasquale},
 	year = {2025},
+	pages = {192--209},
 }
 
 ```
