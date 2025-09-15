@@ -4,8 +4,74 @@ List of publications where I was author.
 
 ## 2025
 
+[Incentivizing Sustainable Data Exchanges through Unique Contextualization of History and Destiny](https://pod.woutslabbinck.com/WIP/25-08-13_WOP25-Trust-Envelopes.pdf)<br>
+Accepted at the 16th Workshop on Ontology Design and Patterns (WOP 2025@ISWC 2025)
+
+<details>
+<summary>bibtex</summary>
+	
+```bibtex
+@inproceedings{slabbinck_trust_2025,
+	title = {Incentivizing Sustainable Data Exchanges through Unique Contextualization of History and Destiny},
+	booktitle = {16th Workshop on Ontology Design and Patterns, co-located with ISWC 2025},
+	author = {Slabbinck, Wout and Esteves, Beatriz and de Mildt, Maarten and Dedecker, Ruben and Rojas Meléndez, Julián and Verbrugge, Sofie and Colle, Didier and Colpaert, Pieter and Verborgh, Ruben},
+	year = {2025},
+}
+```
+</details>
+
+[Capturing Requests and Context for ODRL-based Access and Usage Control](https://raw.githubusercontent.com/woutslabbinck/papers/main/2025/Capturing_Requests_and_Context_for_ODRL-based_Access_and_Usage_Control.pdf)<br>
+Accepted at the 16th Workshop on Ontology Design and Patterns (WOP 2025@ISWC 2025)
+
+<details>
+<summary>bibtex</summary>
+	
+```bibtex
+@inproceedings{esteves_sotw_2025,
+	title = {Capturing Requests and Context for ODRL-based Access and Usage Control},
+	booktitle = {16th Workshop on Ontology Design and Patterns, co-located with ISWC 2025},
+	author = {Esteves, Beatriz and Slabbinck, Wout and Sellami, Yassir and Cimmino, Andrea and Rodríguez-Doncel, Víctor and Verborgh, Ruben},
+	year = {2025},
+}
+```
+</details>
+
+[LOAMA: Low-code ODRL Access Management Application](https://raw.githubusercontent.com/woutslabbinck/papers/main/2025/LOAMA.pdf)<br>
+Accepted as a demo paper for the ISWC 2025 Companion Volume
+
+<details>
+<summary>bibtex</summary>
+	
+```bibtex
+@inproceedings{slabbinck_loama_2025,
+	title = {LOAMA: Low-code ODRL Access Management Application},
+	booktitle = {ISWC 2025 Companion Volume},
+	author = {Slabbinck, Wout and De Rouck, Lennert and Van Herwegen, Joachim and Termont, Wouter and Esteves, Beatriz and Verborgh, Ruben},
+	year = {2025},
+}
+```
+</details>
+
+[May the FORCE be with you? A Framework for ODRL Rule Compliance through Evaluation](https://raw.githubusercontent.com/woutslabbinck/papers/main/2025/FORCE.pdf)<br>
+Accepted at the NeXt-generation Data Governance workshop ([NXDG 2025](https://w3id.org/nxdg/2025)) 
+
+<details>
+<summary>bibtex</summary>
+	
+```bibtex
+@inproceedings{slabbinck_framework_2025,
+	title = {May the {FORCE} be with you? {A}~Framework for {ODRL} Rule Compliance through Evaluation},
+	booktitle = {2nd {NeXt}-generation {Data} {Governance} workshop (NXDG 2025), co-located with the 21th {SEMANTiCS} conference},
+	author = {Slabbinck, Wout and Meléndez, Julián Rojas and Esteves, Beatriz and Verborgh, Ruben and Colpaert, Pieter},
+	year = {2025},
+}
+```
+</details>
+
+
 [Semantic Framework for Legally-aligned Health Data Exchanges](https://raw.githubusercontent.com/woutslabbinck/papers/main/2025/Semantic_Framework_for_Legally-aligned_Health_Data_Exchanges.pdf) <br>
-Accepted for the first [OPAL](https://opal-workshop.github.io/2025/) workshop, co-located with ESWC 2025.
+Published at the 1st International Workshop on ODRL and beyond: Practical Applications and challenges for poLicy-base access and usage control (OPAL2025), co-located with ESWC 2025. <br>
+([CEUR-WS source](https://ceur-ws.org/Vol-3977/OPAL2025-9.pdf))
 
 <details>
 <summary>bibtex</summary>
@@ -22,6 +88,7 @@ Accepted for the first [OPAL](https://opal-workshop.github.io/2025/) workshop, c
 </details>
 
 [Interoperable Interpretation and Evaluation of ODRL Policies](https://raw.githubusercontent.com/woutslabbinck/papers/main/2025/Interoperable-Interpretation-and-Evaluation-of-ODRL-Policies.pdf) <br>
+Published at ESWC2025 (Resource Track), nomination for Best Resource Paper <br>
 ([Springer source](https://link.springer.com/chapter/10.1007/978-3-031-94578-6_11)) <br>
 [slides](https://docs.google.com/presentation/d/1_bGV6QkydgzWYaKnBtLtgS-d0Xe_k5ItwnarVCvjXi4/edit?usp=sharing)
   
