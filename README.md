@@ -4,7 +4,7 @@ List of publications where I was author.
 
 ## 2025
 
-[Incentivizing Sustainable Data Exchanges through Unique Contextualization of History and Destiny](https://pod.woutslabbinck.com/WIP/25-08-13_WOP25-Trust-Envelopes.pdf)<br>
+[Incentivizing Sustainable Data Exchanges through Unique Contextualization of History and Destiny](https://raw.githubusercontent.com/woutslabbinck/papers/main/2025/Trust-Envelopes_Contextualization-of-History-and-Destiny.pdf )<br>
 Accepted at the 16th Workshop on Ontology Design and Patterns (WOP 2025@ISWC 2025)
 
 <details>
